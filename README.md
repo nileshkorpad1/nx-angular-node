@@ -1,5 +1,5 @@
 # ReadME - Angular Node NX Monorepo
- A comprehensive README.md file that incorporates all the elements you've been working on - the Nx monorepo setup with Angular frontend, Node.js/Express backend, shared libraries (constants, types, utils), Husky configuration, and Commitizen setup.
+ Nx monorepo setup with Angular frontend, Node.js/Express backend, shared libraries (constants, types, utils), Husky configuration, and Commitizen setup.
 
 # Nx Angular Node.js Monorepo
 
