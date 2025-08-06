@@ -15,7 +15,7 @@
       "fix": "bugfix"
     },
     "banned": ["wip", "temp"],
-    "skip": ["main", "master", "develop"],
+    "skip": ["main", "master", "develop", "staging", "production"],
     "separator": "/",
     "msgPrefixNotAllowed": "Branch prefix \"%s\" is not allowed.",
     "msgPrefixSuggestion": "Instead of \"%s\" try \"%s\".",

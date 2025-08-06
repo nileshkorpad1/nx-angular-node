@@ -1,1 +1,7 @@
-npx branch-name-lint
+# Get current branch name
+branch=$(git rev-parse --abbrev-ref HEAD)
+
+# Skip branch linting for main branches
+if [[ "$branch" != "main" && "$branch" != "master" && "$branch" != "develop" ]]; then
+  npx branch-name-lint
+fi
