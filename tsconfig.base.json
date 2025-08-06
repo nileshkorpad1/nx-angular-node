@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-angular-node/constants": ["libs/constants/src/index.ts"],
+      "@nx-angular-node/types": ["libs/types/src/index.ts"],
+      "@nx-angular-node/utils": ["libs/utils/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
