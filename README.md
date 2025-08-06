@@ -1,6 +1,3 @@
-# ReadME - Angular Node NX Monorepo
- Nx monorepo setup with Angular frontend, Node.js/Express backend, shared libraries (constants, types, utils), Husky configuration, and Commitizen setup.
-
 # Nx Angular Node.js Monorepo
 
 A professional full-stack monorepo built with Nx, featuring Angular frontend, Node.js/Express.js backend, shared libraries, and enterprise-level development tools including Husky and Commitizen for commit management.
